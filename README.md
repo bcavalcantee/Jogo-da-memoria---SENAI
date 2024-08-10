@@ -32,7 +32,7 @@ Descrição do jogo da memória. Você deve combinar pares de cartas para vencer
 
 ## Como Jogar
 
-1. **Acesse o site**: [https://github.com/bcavalcantee/Jogo-da-memoria---SENAI.git)
+1. **Acesse o site**: https://github.com/bcavalcantee/Jogo-da-memoria---SENAI.git
 2. **Digite seu nome** na tela de login e clique em "Jogar".
 3. **Combine os pares** de cartas que possuem a mesma imagem. Clique nas cartas para virá-las.
 4. **Complete o jogo** antes que o tempo acabe para ganhar.
